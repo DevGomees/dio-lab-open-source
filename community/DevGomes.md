@@ -1,4 +1,4 @@
-## Olá! Me chamo Josué 🖐️
+## Olá! Me chamo Josué Gomes 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josu%C3%A9-gomes-89859125b/)
 
@@ -19,7 +19,7 @@ com um foco específico
 no desenvolvimento Backend. Atualmente,
 tenho dedicado meu tempo ao estudo
 intensivo de programação, especificamente
-em C#, .NET e MySQL, buscando aprimorar
+em C#, Git|GitHub, .NET e MySQL, buscando aprimorar
 minhas habilidades e conhecimentos para
 construir uma carreira sólida na área de
 Desenvolvimento.
